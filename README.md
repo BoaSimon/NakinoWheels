@@ -1,5 +1,5 @@
 # NakinoWheels
-An open-source camera control hand-wheels project based on the Kino Wheels project.
+An open-source camera control hand-wheels project based on the Kino Wheels project at https://www.kinowheels.com/
 
 I'm just dumping all the files up here right away, but when I've got some time after work today I'll reorganize and make things clear.
 
